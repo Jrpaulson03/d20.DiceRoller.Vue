@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/d20.Data/EF Core Update Command.txt
+/d20.DiceRoller.Vue.Server/appsettings.json
